@@ -1,1 +1,1 @@
-print("Hello", "how are you?", sep="---")
+print("Hello Kitty", "how are you?", sep="---")
